@@ -26,6 +26,11 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a>
+      <ul>
+        <li><a href="#usage-example">Usage Example</a>
+        </li>
+      </ul>
+    </li>
     <li><a href="#features-under-progress">Features under progress</a>
     </li>
   </ol>
@@ -87,6 +92,9 @@ To run this project locally [Node.js](https://nodejs.org/en/) must be installed 
 ## Usage
 * Once you have your local copy up and running you can start creating your designs and save them as SVG.
 * If you dont want a local copy and still want to use this tool or just check it out.<br> You can visit http://excalidraw-task-manager.herokuapp.com/
+
+### Usage Example
+<img width="100%" src="https://github.com/Nidhish-Mehra/excalidraw-task-manager/blob/main/usage.gif">
 
 ## Features under progress
 * An authentication/Session system that will help users to save their work online.
